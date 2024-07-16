@@ -6,7 +6,7 @@ fun main() {
 class LearningApp {
     fun start() {
         println("====================================")
-        println("Selamat datang di Aplikasi Belajar Anak!")
+        println("Selamat datang di Aplikasi Belajar Anak WiseKids!")
         println("====================================")
         var pilihan: Int
         do {
